@@ -5,3 +5,4 @@ so now!
 TEST!
 Sharing remotely is fun and easy
 and remote add by SSH
+test after adding a key with ssh
