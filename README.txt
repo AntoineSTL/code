@@ -5,4 +5,6 @@ so now!
 TEST!
 Sharing remotely is fun and easy
 and remote add by SSH
-test after adding a key with sshFeature1
+test after adding a key with sshfeature2
+feature2 changes
+
