@@ -1,6 +1,9 @@
 Hello, Git!
 Hello, again!
-Addind something here!
+Addind something here!fixing bug#1234
+
+fixing bug#123
+
 so now!
 TEST!
 Sharing remotely is fun and easy
